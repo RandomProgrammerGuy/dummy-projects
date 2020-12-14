@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    height: 100vh;
+    background-color: rgb(30, 29, 36);
+    color: whitesmoke;
+}
+
+nav {
+    display: grid;
+}
+
+header {
+    display: flex ;
+}
+
+.activator {
+    padding: 1em;
+    border-radius: 100%;
+    cursor: pointer;
+
+    &:hover {
+
+    }
+}
+
